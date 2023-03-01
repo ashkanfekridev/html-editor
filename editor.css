@@ -1,0 +1,49 @@
+*,
+html,
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    direction: rtl;
+}
+
+button {
+    padding: 4px 8px;
+}
+
+
+/* Global classes */
+.container {
+    width: 1024px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+#editor {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+
+}
+
+#editor-header {
+    border-bottom: 1px solid #eee;
+    padding: 8px;
+}
+
+#editor-content {
+    padding: 8px;
+}
+
+#editor-content>* {
+    padding: 8px;
+    transition: 0.25s;
+}
+
+
+#editor-content>*:hover {
+    background: #eee;
+    border-radius: 4px;
+}

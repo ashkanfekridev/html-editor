@@ -1,0 +1,46 @@
+@font-face{
+	font-family: dana;
+src: url(../fonts/dana/dana-black.eot);
+src: url(../fonts/dana/dana-black.eot?#iefix) format("embedded-opentype"),
+url(../fonts/dana/dana-black.woff) format("woff"),
+url(../fonts/dana/dana-black.woff2) format("woff2"),
+url(../fonts/dana/dana-black.ttf) format("truetype");
+font-weight: 900;
+}
+
+@font-face {
+font-family: dana;
+src: url(../fonts/dana/dana-bold.eot);
+src: url(../fonts/dana/dana-bold.eot?#iefix) format("embedded-opentype"),
+url(../fonts/dana/dana-bold.woff) format("woff"),
+  url(../fonts/dana/dana-bold.woff2) format("woff2"),
+url(../fonts/dana/dana-bold.ttf) format("truetype");
+font-weight: 700;
+}
+@font-face {
+font-family: dana;
+src: url(../fonts/dana/dana-medium.eot);
+src: url(../fonts/dana/dana-medium.eot?#iefix) format("embedded-opentype"),
+url(../fonts/dana/dana-medium.woff) format("woff"), 
+  url(../fonts/dana/dana-medium.woff2) format("woff2"),
+url(../fonts/dana/dana-medium.ttf) format("truetype");
+font-weight: 500;
+}
+@font-face {
+font-family: dana;
+src: url(../fonts/dana/dana-regular.eot);
+src: url(../fonts/dana/dana-regular.eot?#iefix) format("embedded-opentype"),
+url(../fonts/dana/dana-regular.woff) format("woff"), 
+  url(../fonts/dana/dana-regular.woff2) format("woff2"),
+url(../fonts/dana/dana-regular.ttf) format("truetype");
+font-weight: 400;
+}
+@font-face {
+font-family: dana;
+src: url(../fonts/dana/dana-light.eot);
+src: url(../fonts/dana/dana-light.eot?#iefix) format("embedded-opentype"),
+url(../fonts/dana/dana-light.woff) format("woff"),
+  url(../fonts/dana/dana-light.woff2) format("woff2"),
+url(../fonts/dana/dana-light.ttf) format("truetype");
+font-weight: 200;
+}
